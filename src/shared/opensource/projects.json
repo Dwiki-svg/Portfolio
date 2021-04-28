@@ -1,0 +1,9 @@
+{"data":[{"id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+    "name":"website internet of things pendeteksian gas bocor","createdAt":"2019-09-09T16:26:54Z",
+    "url":"",
+    "description":"membangun website internet of things yang terintegrasi dengan mikrokontroller arduino ",
+    "isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},
+        {"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript",
+            "iconifyClass":"logos-javascript"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
+                "name":"PLC dan SCADA","createdAt":"2020-0-03T11:53:55Z","url":"",
+                "description":"Merancang sistem konveyor menggunakan beberapa sensor load cell, proximity, ultrasonik dengan menggunakan integrasi HMI ","isFork":false,"languages":[]},{"id":"MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=","name":"website pengaduan keluhan masyarakat","createdAt":"2020-02-15T05:00:56Z","url":"","description":"Project ini dibuat menggunakan teknologi php native serta implementasi ke database mysql","isFork":false,"languages":[{"name":"Php","iconifyClass":"logos-php"},{"name":"Mysql","iconifyClass":"logos-mysql"}]},{"id":"MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=","name":"Mesin kopi otomatis","createdAt":"2020-01-13T13:13:00Z","url":"","description":"Project ini berhubungan dengan mikrokontroller arduino","isFork":false,"languages":[{"name":"Arduino","iconifyClass":"logos-arduino"}]},{"id":"MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=","name":"Vending Machine","createdAt":"2020-03-22T17:25:51Z","url":"","description":"Proyek ini berupa alat penukar sampah dengan keperluan alat tulis","isFork":false,"languages":[{"name":"arduino","iconifyClass":"logos-arduino"}]},{"id":"MDEwOlJlcG9zaXRvcnkxODIyMDMxOTY=","name":"mesin pemilah sampah organik dan anorganik","createdAt":"2020-06-25T04:48:18Z","url":"","description":"Membuat mesin pemilah sampah organik dan anorganik.","isFork":false,"languages":[{"name":"Arduino","iconifyClass":"logos-arduino"}]}]}
